@@ -4,7 +4,7 @@
 [Klik untuk membuka dashboard](https://datastudio.google.com/reporting/88460ec4-8fd5-44af-9532-315d2455b862)
 
 🔗 **Insight Presentation Link**:  
-[Klik untuk membuka presentasi](canva.link/DashboardInsightLink)
+[Klik untuk membuka presentasi](https://canva.link/dashboardinsighttraining)
 
 Proyek ini bertujuan untuk menganalisis efektivitas, distribusi, dan tren biaya program pelatihan di PT. X selama periode lima tahun. Analisis ini memberikan gambaran strategis bagi manajemen HR dalam mengoptimalkan anggaran dan partisipasi karyawan di masa depan.
 
