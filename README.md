@@ -75,3 +75,4 @@ Dashboard dirancang dengan pendekatan modern dan berfokus pada keterbacaan data 
 
 - **Data Processing**: Google Sheets  
 - **Data Visualization**: Google Looker Studio  
+- **Report**: Canva
