@@ -1,5 +1,8 @@
 # 📊 Training Data Analytics & Visualization: PT. X (2020–2025)
 
+📄 **Dashboard Preview**:  
+[Klik untuk melihat preview dashboard](Dashboard_Statistik_Pelatihan_PTX.pdf)
+
 🔗 **Dashboard Link**:  
 [Klik untuk membuka dashboard](https://datastudio.google.com/reporting/88460ec4-8fd5-44af-9532-315d2455b862)
 
